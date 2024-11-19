@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KAIF1409/ARVR_UI_DESIGN/static/css/main.34ea81a0.css",
+    "main.js": "/KAIF1409/ARVR_UI_DESIGN/static/js/main.b4aa1c6f.js",
+    "static/js/453.d23e8da0.chunk.js": "/KAIF1409/ARVR_UI_DESIGN/static/js/453.d23e8da0.chunk.js",
+    "index.html": "/KAIF1409/ARVR_UI_DESIGN/index.html",
+    "main.34ea81a0.css.map": "/KAIF1409/ARVR_UI_DESIGN/static/css/main.34ea81a0.css.map",
+    "main.b4aa1c6f.js.map": "/KAIF1409/ARVR_UI_DESIGN/static/js/main.b4aa1c6f.js.map",
+    "453.d23e8da0.chunk.js.map": "/KAIF1409/ARVR_UI_DESIGN/static/js/453.d23e8da0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34ea81a0.css",
+    "static/js/main.b4aa1c6f.js"
+  ]
+}
